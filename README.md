@@ -3,7 +3,8 @@
 Este repositório reúne uma coleção de **exercícios resolvidos e anotações** produzidos durante meus estudos em Python, a partir de dois cursos:
 
 - [Curso em Vídeo – Gustavo Guanabara](https://www.cursoemvideo.com/)  
-- [Hashtag Treinamentos – Python](https://www.hashtagtreinamentos.com/)  
+- [Hashtag Treinamentos – Python](https://www.hashtagtreinamentos.com/)
+- [Lan Code – Python](https://www.youtube.com/@lan_code)  
 
 ---
 
